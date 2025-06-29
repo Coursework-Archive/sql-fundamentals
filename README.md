@@ -10,3 +10,6 @@ A collection of introductory and intermediate SQL coursework focused on relation
 
 ## 🛠️ Tools
 - PostgreSQL, MySQL (practice-based)
+
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
